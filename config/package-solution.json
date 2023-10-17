@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pdfviewer-2-client-side-solution",
+    "id": "b6afa229-0493-4bc3-a742-e448e3e1739d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pdfviewer-2 description"
+      },
+      "longDescription": {
+        "default": "pdfviewer-2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pdfviewer-2 Feature",
+        "description": "The feature that activates elements of the pdfviewer-2 solution.",
+        "id": "7f234f0b-6814-4e53-a12b-9e8fbf3fe06a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pdfviewer-2.sppkg"
+  }
+}
